@@ -31,7 +31,7 @@ SECRET_KEY = 'django-insecure-5$raj3kf-*)oihbor%#qs0)e+mrckna1j+ed9v!ifd40o6t$m%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mysupershopbackend.onrender.com']
 
 
 # Application definition
